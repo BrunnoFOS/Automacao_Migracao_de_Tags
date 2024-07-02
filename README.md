@@ -16,7 +16,7 @@ pip install pyautogui
  ˋˋˋ
 ##Descrição do repositório:
 
-*Criei um script para me apontar as cordenadas dentro da tela, para orientação sobre os cliques
-*Criei um script para exclusão de tags em massa
-*Criei um script para transferência de tags entre plataformas.
+* Criei um script para me apontar as cordenadas dentro da tela, para orientação sobre os cliques
+* Criei um script para exclusão de tags em massa
+* Criei um script para transferência de tags entre plataformas.
 
