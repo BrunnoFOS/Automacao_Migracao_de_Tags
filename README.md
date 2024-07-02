@@ -11,9 +11,7 @@ Para executar este projeto, você precisará dos seguintes requisitos:
 * Biblioteca time
 * Biblioteca random
 Você pode instalar a biblioteca pyautogui usando o seguinte comando:
-ˋˋˋ
-pip install pyautogui
- ˋˋˋ
+ˋˋˋ pip install pyautogui ˋˋˋ
 ## Descrição do repositório:
 
 * Criei um script para me apontar as cordenadas dentro da tela, para orientação sobre os cliques
